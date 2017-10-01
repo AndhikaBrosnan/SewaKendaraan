@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home"
+            />
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/kategori"
+            android:title="Category" />
+        <item
+            android:id="@+id/nav_revokeaccess"
+            android:icon="@drawable/revoke_access"
+            android:title="Change Account" />
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@drawable/sign_out"
+            android:title="Sign Out" />
+
+
+    </group>
+
+    <item android:title="Rental">
+        <menu>
+            <item
+                android:id="@+id/buka_rental"
+                android:icon="@drawable/buka_rental"
+                android:title="Buka Rental"
+                />
+            <item
+                android:id="@+id/kelola_rental"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Kelola Rental"
+                />
+        </menu>
+    </item>
+
+</menu>

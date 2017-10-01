@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Sewa Kendaraan</string>
+    <string name="web_client_id">254726785193-52vrb3sb2jmngmrm9te64s644o143s2p.apps.googleusercontent.com</string>
+    <string name="loading">Loading...</string>
+    <string name="title_text">Sewa Kendaraan</string>
+    <!-- Sign-in status messages -->
+    <string name="sign_in">Sign In with Google</string>
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="signed_out">Signed out</string>
+
+    <!-- Button labels -->
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- Content Description for images -->
+    <string name="desc_google_icon">Google Logo</string>
+
+
+    <string name="title_activity_main__drawer">Main_ActivityDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav_drawer">Pilih Kendaraan</string>
+    <string name="title_activity_category">Kategori</string>
+
+    <string name="empty_view_title_text">It\'s a bit lonely here…\nGet started by adding a rental</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_rental_name">Nama</string>
+    <string name="hint_rental_info">Info</string>
+    <string name="editor_activity_title_new_pet">Buka Rental</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="editor_activity_title_edit_pet">Edit Rental</string>
+    <string name="delete_dialog_msg">Hapus Rental yang dipilih?</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_search">Search</string>
+    <string name="action_edit">Edit</string>
+</resources>

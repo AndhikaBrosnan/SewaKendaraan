@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "254726785193",
+    "firebase_url": "https://fir-sewa-kendaraan.firebaseio.com",
+    "project_id": "firebase-sewa-kendaraan",
+    "storage_bucket": "firebase-sewa-kendaraan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254726785193:android:6152a60e3889e6fd",
+        "android_client_info": {
+          "package_name": "debuggers.sewakendaraan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254726785193-6vcifnq24t6vaoar3fhluqt99l7c2o9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "debuggers.sewakendaraan",
+            "certificate_hash": "9f6da11bf5903a3689a3f8ed18fd53ae1996db20"
+          }
+        },
+        {
+          "client_id": "254726785193-52vrb3sb2jmngmrm9te64s644o143s2p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "254726785193-uacusqg9scn8qri3pflfhd8vc0rurime.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzWahNvZI0LmpTtCh3ivVw2m0caQWoNDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254726785193-52vrb3sb2jmngmrm9te64s644o143s2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

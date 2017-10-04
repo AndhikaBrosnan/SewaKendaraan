@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "254726785193-jukb5mmfd5f4sl0gf7qokogjoudf1k6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "debuggers.sewakendaraan",
+            "certificate_hash": "a8bc4b3685653820eb4888e8afc1d56d8a34961d"
+          }
+        },
+        {
           "client_id": "254726785193-6vcifnq24t6vaoar3fhluqt99l7c2o9n.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
